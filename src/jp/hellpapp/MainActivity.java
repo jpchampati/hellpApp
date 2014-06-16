@@ -9,7 +9,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-aksdfj
+
 public class MainActivity extends ActionBarActivity {
 
     @Override
